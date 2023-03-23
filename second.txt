@@ -1,0 +1,3 @@
+
+
+Now that you've pushed your code, you have the elements of what you need to work collaboratively using Git. A collaborative development cycle usually includes the following stages:
